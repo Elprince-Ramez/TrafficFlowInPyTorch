@@ -1,6 +1,6 @@
 # TrafficFlowInPyTorch
 
-The goal of this project is to provide exposure and serve as an introduction to LSTM. Purely out of curiosity. 
+The goal of this project is to provide exposure and serve as an introduction to LSTM.
 
 The dataset is of a highway in Minnesota, the original data set is provided, I split them up and normalized them in train_scaled.csv and test_scaled.csv.
 
